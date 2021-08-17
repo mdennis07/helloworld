@@ -1,0 +1,10 @@
+git fetch --prune ==>> merging from git repo to local
+git merge ===> merging local to git repo
+git log
+
+git log --name-status HEAD^..HEAD |same command | git log -1 --stat
+git log --format='%H' ===> List of commit ids
+
+git log --pretty=oneline ===> Commit IDs + file that has been 
+
+git log -p -2 ===> diff change
